@@ -1,16 +1,24 @@
-## Hi there 👋
+## Ivan — Software Engineer
 
-<!--
-**isolonenko/isolonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+Engineer focused on precise systems, scalable products, and architecture built to outlast trends.
 
-Here are some ideas to get you started:
+### Stack
+React · TypeScript · Node · Deno · Fastify · Prisma · Drizzle · PostgreSQL · Scala  
+Docker · Supabase · Vercel · pnpm · Turborepo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies
+Skiing · Badminton · Gym · Dota2 · Narrative games · Crypto · Web3 pet-projects
+
+### Focus
+Web3 systems · P2P architectures · privacy-first design · AI-augmented tooling
+
+### Principles
+
+* Minimal interfaces. Maximum intent.
+* Architecture over decoration.
+* Performance is discipline.
+* Trends decay. Fundamentals scale.
+* If it’s fragile, it’s unfinished.
+
+>Software is a temporary manifestation of intention. The goal is not speed — the goal is coherence.
